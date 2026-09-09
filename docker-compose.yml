@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  elective-explorer:
+    build: .
+    container_name: elective_explorer_app
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data
+      - ./evaluation:/app/evaluation
+    restart: unless-stopped

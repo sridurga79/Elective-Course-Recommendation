@@ -1,0 +1,58 @@
+career_id,course_id,relevance_score,skills_covered,rationale
+CAR01,CS201,95,Data Structures;Algorithms,Core algorithmic foundation essential for all software development interviews and production code.
+CAR01,CS301,88,SQL;Data Modeling;Relational Databases,Enables back-end persistence design and relational database integration.
+CAR01,CS304,85,HTML;CSS;JavaScript;REST APIs,Provides fundamental client-server programming skills.
+CAR01,CS308,98,Design Patterns;Agile;Unit Testing;Software Architecture,"Teaches industrial software engineering practices, patterns, and team development."
+CAR01,CS409,94,Full Stack;React;Node.js;JWT Auth,Comprehensive hands-on full stack application development experience.
+CAR01,CS416,89,Unit Testing;Cypress;Quality Assurance;Code Audits,"Crucial for producing bug-free, maintainable enterprise software."
+CAR01,CS421,92,Go;Concurrency;Microservices;gRPC,High-performance backend systems design and concurrent server programming.
+CAR01,CS426,90,API Design;OpenAPI;Domain-Driven Design,Microservice architecture and clean enterprise REST/GraphQL contract design.
+CAR02,CS302,99,Machine Learning;Supervised Learning;Gradient Descent,The core foundational course for statistical predictive modeling and classification.
+CAR02,MATH201,95,Statistics;Probability;Hypothesis Testing,Mathematical theory underlying all statistical learning and data inference.
+CAR02,CS307,96,Data Analytics;Pandas;Data Visualization;Exploratory Analysis,"Essential exploratory data analysis, data wrangling, and metric storytelling."
+CAR02,CS401,94,Deep Learning;Neural Networks;PyTorch,Required for advanced deep feature representation and modern AI pipelines.
+CAR02,CS411,88,Big Data;Apache Spark;ETL Pipelines,Enables scalable feature engineering across distributed multi-terabyte datasets.
+CAR02,CS412,90,Data Mining;Clustering;Anomaly Detection,Unsupervised discovery of patterns and market baskets.
+CAR02,CS418,91,Time Series Analysis;ARIMA;Forecasting,Specialized temporal data forecasting for econometric and trend predictions.
+CAR02,CS301,85,SQL;Relational Queries,Fundamental skill to query feature warehouses and relational operational stores.
+CAR03,CS302,98,Machine Learning;Classification;Optimization,Baseline requirement for all artificial intelligence modeling and training.
+CAR03,CS303,97,Artificial Intelligence;Search Algorithms;Knowledge Graphs,"Symbolic AI, state-space search heuristics, and constraint satisfaction."
+CAR03,CS401,99,Deep Learning;CNNs;Transformers;PyTorch,State-of-the-art neural architectures and backpropagation optimization.
+CAR03,CS402,95,NLP;Tokenization;LLM Fine-Tuning;spaCy,Natural language processing and generative language modeling competencies.
+CAR03,CS403,94,Computer Vision;OpenCV;YOLO;Object Detection,"Visual perceptual AI, feature extraction, and real-time object tracking."
+CAR03,CS422,92,Reinforcement Learning;Policy Gradients;DQN,Autonomous decision agents and policy gradient optimization in simulation.
+CAR03,CS423,89,Information Retrieval;Vector Search;BM25,"Vector embedding indexing, semantic search, and RAG architectures."
+CAR04,CS204,90,Networking;TCP/IP;Packet Analysis,Thorough understanding of network protocols is mandatory to identify malicious traffic.
+CAR04,CS305,98,Security Fundamentals;Threat Modeling;OWASP Top 10,"Foundational concepts of information security, vulnerability scoring, and defensive posture."
+CAR04,CS405,97,Network Security;Cryptography;PKI;TLS,"Cryptographic algorithms, secure protocols, and defense against network attacks."
+CAR04,CS406,99,Ethical Hacking;Penetration Testing;Metasploit,"Practical red-team exploitation, privilege escalation, and mitigation testing."
+CAR04,CS415,92,Cloud Security;IAM;Compliance;SOC2,Securing multi-cloud enterprise footprints and IAM governance.
+CAR04,CS419,86,Security Management;ISO 27001;Risk Assessment,"Administrative controls, disaster recovery, and regulatory compliance."
+CAR04,CS428,91,DevSecOps;SAST;DAST;SBOM,Integrating automated vulnerability scans into continuous build pipelines.
+CAR05,CS203,90,Operating Systems;Processes;Virtual Memory,Deep system knowledge required for kernel tuning and virtualization.
+CAR05,CS306,99,Cloud Computing;AWS;Virtualization;Serverless,"Foundational cloud services, VPC networking, and cloud architecture patterns."
+CAR05,CS407,96,DevOps;CI/CD;Docker;Automation,Continuous delivery automation and container image management.
+CAR05,CS408,94,Distributed Systems;Microservices;Raft,"Architecture of scalable, resilient, fault-tolerant cluster networks."
+CAR05,CS417,98,Kubernetes;Container Orchestration;Helm,"Industry standard for container deployment, scaling, and management."
+CAR05,CS425,95,Site Reliability;SLOs;Prometheus;Alerting,"Production telemetry, error budget management, and operational incident response."
+CAR05,CS429,93,Cloud Native;12-Factor Apps;Pub/Sub,Designing resilient distributed applications optimized for cloud elasticity.
+CAR06,CS301,96,SQL;Relational Queries;Data Extraction,Core competency for querying and extracting enterprise business data.
+CAR06,CS307,99,Data Analytics;Visualization;Plotly;Dashboards,Primary capability for exploratory analysis and stakeholder executive reporting.
+CAR06,MATH201,90,Statistics;A/B Testing;Hypothesis Testing,Evaluating statistical significance in product experiments and business KPIs.
+CAR06,CS412,87,Data Mining;Customer Segmentation;Clustering,Finding actionable behavioural segments and affinity groupings in business data.
+CAR06,CS413,97,Business Intelligence;Data Warehousing;OLAP;PowerBI,"Dimensional modeling, star schemas, and enterprise BI dashboard creation."
+CAR06,CS418,89,Time Series;Forecasting;Seasonal Trends,"Sales forecasting, demand planning, and revenue projection modeling."
+CAR06,CS427,84,Data Governance;Ethics;GDPR,Ensuring data privacy compliance and ethical handling of customer records.
+CAR07,CS102,85,Object Oriented Programming;Modularity,Structural foundation for clean application architectures.
+CAR07,CS304,98,Web Development;HTML;CSS;JavaScript;REST,"Fundamental web standards, browser rendering, and dynamic DOM interaction."
+CAR07,CS409,99,Full Stack;React;Node.js;Express;JWT,Complete end-to-end full stack web engineering capabilities.
+CAR07,CS410,86,Mobile Apps;Responsive Layouts;Cross-Platform,Building mobile companion applications and responsive progressive interfaces.
+CAR07,CS420,97,Frontend;React;Redux;Tailwind CSS;Performance,Advanced modern frontend engineering and reactive UI state architecture.
+CAR07,CS421,94,Backend;Node.js;Go;Microservices,"Scalable backend API development, caching, and server concurrency."
+CAR07,CS426,92,API Design;OpenAPI;REST Standards,Clean contractual API design connecting frontend clients to distributed microservices.
+CAR08,CS201,86,Data Structures;B-Trees;Hashing,"Understanding of index internals, B-tree balancing, and hash joins."
+CAR08,CS301,99,Database Systems;SQL;Normalization;ACID,"Core relational database architecture, locking, and relational calculus."
+CAR08,CS404,95,NoSQL;MongoDB;Distributed Stores;Sharding,Handling unstructured document stores and horizontally scaled NoSQL clusters.
+CAR08,CS413,90,Data Warehousing;ETL;Columnar Stores,Managing analytical warehouse storage and high-throughput bulk loads.
+CAR08,CS414,99,Database Administration;Tuning;Replication;Backups,"Index optimization, query execution plan tuning, and automated disaster recovery."
+CAR08,CS424,98,High Availability;Active-Active;Distributed Transactions,Zero-downtime database upgrades and multi-region quorum consensus.

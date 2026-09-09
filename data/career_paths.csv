@@ -1,0 +1,9 @@
+career_id,career_name,required_skills,recommended_courses,importance_score
+CAR01,Software Developer,Python;Java;Data Structures;Algorithms;Design Patterns;SQL;Git;Agile;Unit Testing;System Design,CS201;CS301;CS304;CS308;CS409;CS416;CS421;CS426,95
+CAR02,Data Scientist,Python;Statistics;Machine Learning;Data Analytics;SQL;Deep Learning;Data Visualization;Predictive Modeling;Data Mining,CS201;MATH201;CS301;CS302;CS307;CS401;CS411;CS412;CS418,98
+CAR03,AI Engineer,Python;Machine Learning;Deep Learning;Algorithms;Artificial Intelligence;Neural Networks;NLP;Computer Vision;Reinforcement Learning,CS201;CS302;CS303;CS401;CS402;CS403;CS422;CS423,96
+CAR04,Cyber Security Analyst,Network Security;Cryptography;Ethical Hacking;Linux;Vulnerability Assessment;Information Security;Threat Modeling;DevSecOps,CS204;CS305;CS405;CS406;CS415;CS419;CS428,94
+CAR05,Cloud Engineer,Cloud Computing;Linux;Networking;DevOps;Docker;Kubernetes;Infrastructure as Code;Microservices;Site Reliability,CS203;CS204;CS306;CS407;CS408;CS415;CS417;CS425;CS429,93
+CAR06,Data Analyst,SQL;Excel;Python;Data Analytics;Business Intelligence;Data Visualization;Statistics;Reporting;Data Warehousing,CS301;MATH201;CS307;CS412;CS413;CS418;CS427,92
+CAR07,Web Developer,HTML;CSS;JavaScript;React;Node.js;REST APIs;Web Security;Responsive Design;Full Stack;State Management,CS102;CS304;CS409;CS410;CS420;CS421;CS426,91
+CAR08,Database Administrator,SQL;Database Tuning;Backup & Recovery;High Availability;NoSQL;Data Modeling;ACID Transactions;Distributed Databases,CS201;CS301;CS404;CS413;CS414;CS424,90

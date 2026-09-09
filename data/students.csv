@@ -1,0 +1,21 @@
+student_id,name,completed_courses,grades,current_semester,career_goal,available_credits,preferred_days
+S101,Aarav Sharma,CS101;MATH101;CS102;MATH201;CS201,CS101:A;MATH101:A;CS102:B;MATH201:A;CS201:A,5,Data Scientist,15,Monday;Tuesday;Thursday
+S102,Bhavna Patel,CS101;CS102;MATH101;CS201;CS202,CS101:A;CS102:A;MATH101:B;CS201:B;CS202:A,5,Software Developer,15,Monday;Wednesday;Friday
+S103,Chirag Verma,CS101;MATH101;CS102;MATH201;CS201,CS101:A;MATH101:B;CS102:B;MATH201:B;CS201:B,5,AI Engineer,12,Monday;Tuesday;Wednesday
+S104,Divya Nair,CS101;CS102;CS204,CS101:B;CS102:B;CS204:A,5,Cyber Security Analyst,15,Tuesday;Thursday;Friday
+S105,Eshaan Iyer,CS101;CS201;CS203;CS204,CS101:A;CS201:B;CS203:A;CS204:B,5,Cloud Engineer,15,Tuesday;Thursday
+S106,Fatima Khan,CS101;MATH101;MATH201;CS201,CS101:B;MATH101:A;MATH201:A;CS201:B,5,Data Analyst,15,Monday;Wednesday;Friday
+S107,Gaurav Sen,CS101;CS102,CS101:A;CS102:A,5,Web Developer,12,Monday;Thursday;Friday
+S108,Harini Reddy,CS101;CS201,CS101:A;CS201:A,5,Database Administrator,15,Monday;Tuesday;Thursday
+S109,Ishaan Malhotra,CS101;MATH101;CS201,CS101:C;MATH101:C;CS201:D,5,Data Scientist,12,Monday;Wednesday
+S110,Janani Sundaram,CS101,CS101:B,3,Database Administrator,15,Monday;Tuesday
+S111,Kavya Deshmukh,CS101;CS102;CS201;CS301,CS101:A;CS102:A;CS201:A;CS301:A,6,Software Developer,18,Wednesday;Thursday;Friday
+S112,Lakshya Singhania,CS101;MATH101;CS201;MATH201;CS302,CS101:A;MATH101:A;CS201:A;MATH201:A;CS302:A,6,AI Engineer,15,Monday;Wednesday;Friday
+S113,Meera Joshi,CS101;CS201;CS203;CS204;CS306,CS101:B;CS201:B;CS203:B;CS204:B;CS306:A,6,Cloud Engineer,15,Tuesday;Wednesday;Thursday
+S114,Nikhil Pillai,CS101;CS204;CS305,CS101:A;CS204:A;CS305:A,6,Cyber Security Analyst,15,Friday;Tuesday
+S115,Oindrila Ghosh,CS101;MATH101;MATH201;CS201;CS301;CS307,CS101:A;MATH101:A;MATH201:A;CS201:A;CS301:A;CS307:A,6,Data Analyst,15,Monday;Wednesday;Thursday
+S116,Pranav Rao,CS101;MATH101;CS201;MATH201;CS302;CS303,CS101:A;MATH101:A;CS201:A;MATH201:A;CS302:A;CS303:A,7,AI Engineer,15,Wednesday;Thursday;Friday
+S117,Qasim Ali,CS101;MATH101;MATH201;CS201;CS301;CS302;CS307,CS101:B;MATH101:A;MATH201:A;CS201:B;CS301:A;CS302:B;CS307:A,7,Data Scientist,15,Thursday;Friday
+S118,Rhea Sengupta,CS101;CS201;CS301,CS101:A;CS201:A;CS301:A,7,Database Administrator,15,Thursday;Friday
+S119,Sameer Bhatt,CS101;CS102;CS201,CS101:B;CS102:B;CS201:B,5,Software Developer,6,Monday;Wednesday
+S120,Tanvi Agarwal,CS101;MATH101;CS102,CS101:B;MATH101:B;CS102:B,4,Undeclared,15,Monday;Tuesday;Wednesday;Thursday;Friday
